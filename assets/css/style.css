@@ -307,7 +307,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -1069,6 +1069,10 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+}
+
+li{
+  margin: 10px 0;
 }
 
 /*--------------------------------------------------------------
